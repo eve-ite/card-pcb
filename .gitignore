@@ -1,0 +1,17 @@
+# KiCad lock & local session files
+*.lck
+~*
+*.kicad_prl
+
+# Auto-backups / editor history
+card-backups/
+.history/
+*-backups/
+
+# Fabrication outputs
+*.zip
+gerbers/
+fab/
+
+# macOS
+.DS_Store
